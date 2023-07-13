@@ -1,6 +1,6 @@
 # FAQ accordion card
 
-![Design preview for the FAQ accordion](https://dbcc0de.github.io/faq-accordion/)
+Design preview for the FAQ accordion: (https://dbcc0de.github.io/faq-accordion/)
 
 ## Welcome! 👋
 
